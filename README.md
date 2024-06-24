@@ -1,4 +1,4 @@
-# Olá, eu sou Ryan!🦜
+# Olá, eu sou Ryan! 🐇
 ## Desenvolvedor FrontEnd | Entusiasta de IA 
 
  <div>
@@ -15,7 +15,7 @@
  
 <br>
  
-### 📫Me encontre abaixo:
+### 📫Me encontre nas redes abaixo:
  
 <div> 
   <a href = "mailto: lesley130@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
