@@ -1,4 +1,4 @@
-# Olá, eu sou Ryan! 🐇
+# Olá, eu sou Ryan! 🦜
 ## Desenvolvedor FrontEnd | Entusiasta de IA 
 
  <div>
