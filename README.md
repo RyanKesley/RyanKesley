@@ -1,5 +1,5 @@
 # Olá, eu sou Ryan! 🦜
-## Desenvolvedor FrontEnd | Entusiasta de IA 
+## Desenvolvedor backEnd | Entusiasta de Java
 
 
    <a href="https://github.com/ryankesley">
